@@ -1,6 +1,6 @@
 # Chapter 8 Software Testing
 
-An animated, 3D 15-slide presentation website for Chapter 8 Software Testing: development testing, test-driven development, release testing and user testing.
+An animated, 3D 16-slide presentation website for Chapter 8 Software Testing: development testing, test-driven development, release testing and user testing.
 
 Western University · Course: SDLC · Instructor: Roeun Mesa · Team: OEUN RASMEI, KHOUN KHEYDET
 
@@ -21,7 +21,9 @@ Everything is in one file, `index.html`. The 3D background uses Three.js and the
 
 On a phone or a narrow window, the deck becomes a scrolling page. Swipe left or right in slide mode on a tablet. Add `#12` to the URL to open slide 12 directly.
 
-Interactive slides: the TDD cycle demo (slide 8), the scenario test log (slide 11) and the load-test simulator (slide 12).
+Interactive slides: the clickable table of contents (slide 2), the TDD cycle demo (slide 9), the scenario test log (slide 12) and the load-test simulator (slide 13).
+
+A PDF of every slide is in `Chapter-8-Software-Testing-Slides.pdf`.
 
 ## Publishing with GitHub Pages
 
@@ -36,6 +38,8 @@ You can also just double-click `index.html` to open it in a browser.
 ## Files
 
 - `index.html`: the slideshow (styles, slides, speaker notes and scripts)
+- `assets/`: AI-generated slide images (made with Higgsfield), also embedded in `index.html`
+- `Chapter-8-Software-Testing-Slides.pdf`: all slides as a PDF
 - `RESEARCH.md`: study notes for the chapter, the extra research added to the deck, and sources
 
 ## Editing
