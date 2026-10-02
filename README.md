@@ -1,6 +1,8 @@
 # Chapter 8 Software Testing
 
-An animated, 3D slideshow website for Chapter 8 of *Software Engineering* (Sommerville): development testing, test-driven development, release testing and user testing. Western University · Software Engineering · Instructor: Roeun Mesa.
+An animated, 3D 15-slide presentation website for Chapter 8 Software Testing: development testing, test-driven development, release testing and user testing.
+
+Western University · Course: SDLC · Instructor: Roeun Mesa · Team: OEUN RASMEI, KHOUN KHEYDET
 
 **Live version:** https://claude.ai/artifact/EFL1rYhXDqmtBo1go85wBu (private until you share it from its Share menu)
 
@@ -19,7 +21,7 @@ Everything is in one file, `index.html`. The 3D background uses Three.js and the
 
 On a phone or a narrow window, the deck becomes a scrolling page. Swipe left or right in slide mode on a tablet. Add `#12` to the URL to open slide 12 directly.
 
-Interactive slides: the partition and boundary sliders (slide 13), the validation/defect toggle (slide 8), the load-test simulator (slide 25), the quiz (slide 33), and the clickable contents list (slide 2).
+Interactive slides: the TDD cycle demo (slide 8), the scenario test log (slide 11) and the load-test simulator (slide 12).
 
 ## Publishing with GitHub Pages
 
