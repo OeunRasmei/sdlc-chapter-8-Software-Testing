@@ -38,8 +38,8 @@ You can also just double-click `index.html` to open it in a browser.
 ## Files
 
 - `index.html`: the slideshow (styles, slides, speaker notes and scripts)
-- `assets/`: AI-generated slide images (made with Higgsfield), also embedded in `index.html`
-- `Chapter-8-Software-Testing-Slides.pdf`: all slides as a PDF
+- `assets/`: AI-generated slide images (made with Higgsfield, 2000×1131), also embedded in `index.html`
+- `Chapter-8-Software-Testing-Slides.pdf`: all slides as a PDF at 2560×1440
 - `RESEARCH.md`: study notes for the chapter, the extra research added to the deck, and sources
 
 ## Editing
